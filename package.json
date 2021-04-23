@@ -17,6 +17,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+
+  "proxy" : "http://locatlhost:6000" ,
+
   "eslintConfig": {
     "extends": [
       "react-app",
